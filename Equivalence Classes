@@ -1,0 +1,16 @@
+Lab03 Equivalence Classes:
+
+Test1 Class:
+  This will be the first test that will check for the result of the MaxCycle between 1 and 10.
+
+Boundary:
+  Class will test the limits of the functions and will test between the range of 1 and 1,000,000.
+
+Same Number:
+  This class will be used to see how the functions performs when the same number is used for the range (5, 5).
+
+Ones:
+  This will be similar to the Same Number class, except this will check to see if there is a difference between the answers for (1, 1) and (5, 5).
+
+Negatives:
+  This class will test the function to see how it handles a negative number in the bounds of the range (-1, 10).
